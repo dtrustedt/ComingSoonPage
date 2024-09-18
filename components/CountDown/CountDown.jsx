@@ -22,7 +22,7 @@ export default function CountDown() {
     let diff = new Date()
 
     let date1temp = new Date(
-      'Jun 27 2022 08:40:12 GMT+0430 (Iran Daylight Time)'
+      'Oct 1 2024 00:00:00 GMT+0430 (Iran Daylight Time)'
     )
     date2.setTime(date1temp.getTime())
 
